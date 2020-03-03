@@ -3,3 +3,4 @@
 *://*.csdn.net/*
 *://*.cnblogs.com/*
 *://*.juejin.im/*
+*://cloud.tencent.com/*
