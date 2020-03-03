@@ -2,6 +2,7 @@
 *://*.78360.net/*
 *://*.bnee.net/*
 *://*.banwagongzw.com/*
+*://*.shuzhiduo.com/*
 *://*.javazhiyin.com/*
 *://*.irangolden.com/*
 *://*.jethrough.com/*
