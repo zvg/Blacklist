@@ -5,6 +5,7 @@
 *://*.juejin.im/*
 *://cloud.tencent.com/*
 *://help.aliyun.com/*
+*://yq.aliyun.com/*
 *://rank.chinaz.com/*
 *://download.cnet.com/*
 *://*.cnbeta.com/*
