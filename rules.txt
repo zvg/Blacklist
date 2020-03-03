@@ -8,4 +8,5 @@
 *://rank.chinaz.com/*
 *://download.cnet.com/*
 *://*.cnbeta.com/*
+*://*.wandoujia.com/*
 *://*.ddooo.com/*
