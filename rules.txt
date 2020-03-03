@@ -1,5 +1,8 @@
 *://*.baidu.com/*
 *://*.jianshu.com/*
 *://*.csdn.net/*
-*://*.21andy.com/*
+*://*.cnblogs.com/*
 *://*.jb51.net/*
+*://*.21andy.com/*
+*://*.itread01.com/*
+*://*.xp.cn/*
