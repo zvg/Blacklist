@@ -1,3 +1,5 @@
+*://*.baidu.com/*
+*://*.jianshu.com/*
 *://*.csdn.net/*
 *://*.21andy.com/*
 *://*.jb51.net/*
