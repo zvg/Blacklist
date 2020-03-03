@@ -4,3 +4,4 @@
 *://*.cnblogs.com/*
 *://*.juejin.im/*
 *://cloud.tencent.com/*
+*://help.aliyun.com/*
