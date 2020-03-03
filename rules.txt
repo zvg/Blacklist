@@ -13,3 +13,11 @@
 *://*.freetribe.me/*
 *://*.lanzhouyangsheng.com/*
 *://*.cctsuzhou.cn/*
+*://*.artez.cn/*
+*://*.bengsiu.cn/*
+*://*.chengzhenwang.cn/*
+*://*.dc120.com.cn/*
+*://*.qu02.com/*
+*://*.3li.cc/*
+*://*.xueman288.com/*
+*://*.51ttxue.com/*
