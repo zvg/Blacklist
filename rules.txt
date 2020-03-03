@@ -5,3 +5,4 @@
 *://*.juejin.im/*
 *://cloud.tencent.com/*
 *://help.aliyun.com/*
+*://rank.chinaz.com/*
