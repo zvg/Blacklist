@@ -2,3 +2,4 @@
 *://*.jianshu.com/*
 *://*.csdn.net/*
 *://*.cnblogs.com/*
+*://*.juejin.im/*
