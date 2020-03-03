@@ -1,6 +1,7 @@
 *://*.irangolden.com/*
 *://*.jethrough.com/*
 *://*.scamadviser.com/*
+*://*.buildwebhost.com/*
 *://*.00006880.cn/*
 *://*.0001113.com/*
 *://*.0001403.cn/*
