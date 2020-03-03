@@ -1,6 +1,7 @@
 *://*.toutiao.io/*
 *://*.78360.net/*
 *://*.bnee.net/*
+*://*.vidotto.top/*
 *://*.banwagongzw.com/*
 *://*.shuzhiduo.com/*
 *://*.javazhiyin.com/*
