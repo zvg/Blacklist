@@ -1,3 +1,4 @@
+*://*.toutiao.io/*
 *://*.irangolden.com/*
 *://*.jethrough.com/*
 *://*.scamadviser.com/*
