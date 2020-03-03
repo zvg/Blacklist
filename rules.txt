@@ -9,3 +9,5 @@
 *://*.xiaolee.net/*
 *://*.lagou.com/*
 *://*.centos.bz/*
+*://*.geek-share.com/*
+*://*.freetribe.me/*
