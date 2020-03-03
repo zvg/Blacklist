@@ -7,3 +7,5 @@
 *://help.aliyun.com/*
 *://rank.chinaz.com/*
 *://download.cnet.com/*
+*://*.cnbeta.com/*
+*://*.ddooo.com/*
