@@ -3,11 +3,13 @@
 *://*.csdn.net/*
 *://*.cnblogs.com/*
 *://*.jb51.net/*
-*://*.21andy.com/*
 *://*.itread01.com/*
+*://*.21andy.com/*
 *://*.xp.cn/*
 *://*.xiaolee.net/*
 *://*.lagou.com/*
 *://*.centos.bz/*
 *://*.geek-share.com/*
 *://*.freetribe.me/*
+*://*.lanzhouyangsheng.com/*
+*://*.cctsuzhou.cn/*
