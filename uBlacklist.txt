@@ -1,4 +1,6 @@
 *://*.toutiao.io/*
+*://*.78360.net/*
+*://*.banwagongzw.com/*
 *://*.javazhiyin.com/*
 *://*.irangolden.com/*
 *://*.jethrough.com/*
