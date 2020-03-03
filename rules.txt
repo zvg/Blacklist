@@ -6,3 +6,6 @@
 *://*.21andy.com/*
 *://*.itread01.com/*
 *://*.xp.cn/*
+*://*.xiaolee.net/*
+*://*.lagou.com/*
+*://*.centos.bz/*
