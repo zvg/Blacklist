@@ -1,5 +1,6 @@
 *://*.toutiao.io/*
 *://*.78360.net/*
+*://*.bnee.net/*
 *://*.banwagongzw.com/*
 *://*.javazhiyin.com/*
 *://*.irangolden.com/*
